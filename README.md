@@ -3,3 +3,5 @@
 # 使用前请安装edge浏览器
 ## 为什么？
 因为我只写了edge的适配
+
+# [下载链接](https://github.com/molanp/Auto_shop/releases)
